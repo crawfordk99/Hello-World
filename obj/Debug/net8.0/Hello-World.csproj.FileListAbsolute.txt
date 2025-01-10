@@ -1,0 +1,14 @@
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/bin/Debug/net8.0/Hello-World
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/bin/Debug/net8.0/Hello-World.deps.json
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/bin/Debug/net8.0/Hello-World.runtimeconfig.json
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/bin/Debug/net8.0/Hello-World.dll
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/bin/Debug/net8.0/Hello-World.pdb
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.AssemblyInfoInputs.cache
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.AssemblyInfo.cs
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.csproj.CoreCompileInputs.cache
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.dll
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/refint/Hello-World.dll
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.pdb
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.genruntimeconfig.cache
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/ref/Hello-World.dll
