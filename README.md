@@ -4,7 +4,7 @@ __A simple Hello World program written in C#__
 
 _I wrote this program in order to demonstrate my foundational knowledge of C#_
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CiWmh9-VcK8)
 
 # Development Environment
 

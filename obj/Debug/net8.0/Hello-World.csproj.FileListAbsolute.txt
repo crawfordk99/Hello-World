@@ -12,3 +12,4 @@
 /Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.pdb
 /Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.genruntimeconfig.cache
 /Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/ref/Hello-World.dll
+/Users/keithcrawfordjr/CSE310/Hello World/Hello-World/obj/Debug/net8.0/Hello-World.sourcelink.json
